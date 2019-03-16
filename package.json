@@ -1,0 +1,25 @@
+{
+  "name": "estimatr-common",
+  "version": "1.0.0",
+  "description": "Common shared models for estimatr.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bzmmarvin222/estimatr-common.git"
+  },
+  "author": "bzmmarvin222",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bzmmarvin222/estimatr-common/issues"
+  },
+  "homepage": "https://github.com/bzmmarvin222/estimatr-common#readme",
+  "devDependencies": {
+    "sync_ot": "^0.1.6"
+  }
+}
